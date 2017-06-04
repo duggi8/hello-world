@@ -1,0 +1,67 @@
+Section1:
+
+Reference Text Book:- Head First Java,
+Kathy Sierra, Bert Bates
+
+From <https://www.google.com/search?q=head+first+java&oq=head+first&aqs=chrome.1.69i57j0l5.2711j0j7&sourceid=chrome&ie=UTF-8> 
+
+
+What is a programming language?
+
+What is Java? Why is it called Object Oriented Programming language?
+
+Introduction to features of OOPL-Inheritance, Encapsulation, Polymorphism etc
+
+How to run Java program on your machine?
+
+Intro to Eclipse IDE and installation.
+(project ,package, lib folder)
+
+JRE,JDK,JVM ??
+
+Compilation and running java program.(.java, .class files)
+main method significance.
+
+
+Section 2:
+
+Always remember- To be a good developer you should learn to read the documentation.
+	• Terminology is very important. We need to call something
+	Exactly what it should be called. This helps while reading related stuff online.
+	 
+
+What is Object?
+
+State(fields) and behavior(methods)
+
+Give examples of real world objects. Like dog, bicycle, radio
+And explain about their state and behavior.
+For dog: color, breed, height are all states.These states are exposed as fields in java.
+Barking, eating, sleeping are all the things dog can do,so they can be behavior of dog. These behaviors as methods in java.
+
+ What is a Class?
+
+In real world there are many bicycles with the same make and model. Each bicycle was built from same set of blue print. So this blueprint is called a class. This is what we need to keep in mind when creating a class. We are creating a blueprint to create an object which can have some state and behavior.
+
+How to create an Object using blueprint i.e. Class?
+
+What is inheritance?
+Inheritance is used to inherit commonly used state and behavior from other classes.
+Each class can have one super class.
+Use extends keyword.
+
+Example: We have different types of vehicles.
+
+What is an Interface?
+
+It is a contract , and it tells that you are abiding to do something
+In your class.
+Usage of -Implements key word.
+
+Variables:
+
+Instance variables(Non-static fields)
+Class variables(static fields)
+Local variables(fields declared inside a method)
+Parameters()
+
